@@ -1,0 +1,7 @@
+- Si lo quieres crear vacío:
+
+write >> archivo.txt
+
+- Si quieres crearlo y agregarle texto a la vez:
+
+echo "Escribe aquí el texto" >> archivo.txt 
